@@ -1,0 +1,7 @@
+.cache
+.tox
+dist 
+
+*.pyc
+*.egg
+*.sqlite3
